@@ -80,10 +80,14 @@ public class Craps
 
 COMMENTS FROM THE INSTRUCTOR:
 
-Nice job including the JavaDocs! Make sure you include the
-play again option as indicated in the assignment.
+You've got some aspects of this assignment working as they should, but
+there are some issues as well. We can take a look at this together to
+fix things up, or you can check in with one of your partners in class
+to figure out how to implement all the features it's supposed to have.
 
-SCORE: 1/20
+For the moment, you've got some good partial credit! :)
+
+SCORE: 10/15
 
 */
 
